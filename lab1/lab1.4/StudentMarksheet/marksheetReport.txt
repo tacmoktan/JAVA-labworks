@@ -1,0 +1,8 @@
+Symbol	Name	JAVA	NET	INT	DBMS	Project	 Total	 Percent Division
+
+1	Ram	80	70	90	60	90	 390.00	 78.00	 first
+
+2	Sam	50	60	70	80	90	 350.00	 70.00	 first
+
+3	Hari	65	55	88	99	77	 384.00	 76.80	 first
+
